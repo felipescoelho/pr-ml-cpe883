@@ -2,6 +2,10 @@
 hw0/*
 hw1/env/*
 hw1/Figures/*
+hw2/env/*
+hw2/Figures/*
 
 # Files
 *.pdf
+*.zip
+*_test.py
